@@ -53,7 +53,21 @@ section{
 .heading span{
     text-transform: uppercase;
     color:var(--green);
+
 }
+.rheading{
+   
+   
+    font-size: 2rem;
+    color:#3E7B81;
+}
+
+.rheading span{
+    color:#3E7B81;
+
+}
+
+
 
 .btn{
     display: inline-block;
